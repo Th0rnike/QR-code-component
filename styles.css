@@ -1,0 +1,38 @@
+body{
+    background-color: #D5E1EF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+div{
+    width: 320px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 16px;
+    text-align: center;   
+}
+
+img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    font-style: normal;
+    color: #1F314F;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+    letter-spacing: 0.1875px;
+    color: #7D889E;
+}
