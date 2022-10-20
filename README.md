@@ -17,12 +17,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 ![Screenshot 2022-10-20 at 16-46-22 QR code component](https://user-images.githubusercontent.com/116254117/196954590-e5573ddf-8135-46f1-859d-c97bab6d447e.png)
 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ### Built with
 
 - Semantic HTML5 markup
