@@ -36,3 +36,12 @@ p{
     letter-spacing: 0.1875px;
     color: #7D889E;
 }
+
+@media screen and (max-width: 500px){
+    body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 100px 44px 280px 44px;
+    }
+}
